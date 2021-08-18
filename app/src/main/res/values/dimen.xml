@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimen to layout -->
+    <dimen name="distance_parente">30dp</dimen>
+    <dimen name="distance_image">40dp</dimen>
+    <dimen name="widthtext_descriptionbook">220dp</dimen>
+    <dimen name="highttext_desctiptionbook">50dp</dimen>
+    <!-- Dimen to text -->
+    <dimen name="descriptiontext_size">16sp</dimen>
+</resources>
